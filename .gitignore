@@ -147,3 +147,6 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# 要件定義はローカルのみで管理
+docs/requirements.md
